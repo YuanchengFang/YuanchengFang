@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python                     1 hr 10 mins    ████████▓░░░░░░░░░░░░░░░░   34.81 %
-Nginx configuration file   1 hr 8 mins     ████████▒░░░░░░░░░░░░░░░░   33.69 %
-Other                      42 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.18 %
-JSON                       16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
-Bash                       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Nginx configuration file   1 hr 8 mins     █████████▒░░░░░░░░░░░░░░░   37.43 %
+Python                     56 mins         ███████▓░░░░░░░░░░░░░░░░░   31.09 %
+Other                      38 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.88 %
+JSON                       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+BibTeX                     7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
 ```
 
 <!--END_SECTION:waka-->
